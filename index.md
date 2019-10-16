@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP game security framework
 tags: example-tag
 level: 4
+type: documentation
 
 ---
 
