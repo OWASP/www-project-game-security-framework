@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Daniel Miessler](mailto://)
+* [Daniel Miessler](mailto:)
