@@ -50,66 +50,35 @@ auto-migrated: 1
 <p>The OWASP Game Security Framework is free to use. It is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">http://creativecommons.org/licenses/by-sa/3.0/</a> Creative Commons Attribution-ShareAlike 3.0 license], so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.</p></td>
 <td><h2 id="what_is_the_owasp_game_security_framework">What is the OWASP Game Security Framework?</h2>
 <p>The goal of the OWASP Game Security Framework is to provide a structure for discussing the various aspects around the security of video games.</p>
-<p>The goal of the OWASP Game Security Framework is to provide a structure for discussing the various aspects around the security of video games.</p>
-<p>The target audience for the project includes:</p>
 <p>The target audience for the project includes:</p>
 <ul>
-<ul>
-<li>Gamers</li>
 <li>Gamers</li>
 <li>QA</li>
-<li>QA</li>
-<li>Game designers</li>
 <li>Game designers</li>
 <li>Penetration testers</li>
-<li>Penetration testers</li>
-<li>Gaming executives</li>
 <li>Gaming executives</li>
 <li>Anyone else with a vested interest in game security</li>
-<li>Anyone else with a vested interest in game security</li>
-</ul>
 </ul>
 <h2 id="project_leaders">Project Leaders</h2>
-<h2 id="project_leaders">Project Leaders</h2>
-<ul>
 <ul>
 <li>Jason Haddix</li>
-<li>Jason Haddix</li>
-<li>Daniel Miessler</li>
 <li>Daniel Miessler</li>
 </ul>
-</ul>
-<h2 id="contributors">Contributors</h2>
 <h2 id="contributors">Contributors</h2>
 <ul>
-<ul>
-<li>Kevin Hemmingsen</li>
 <li>Kevin Hemmingsen</li>
 <li>Troy Cunefare</li>
-<li>Troy Cunefare</li>
-<li>Ryan Lawrence</li>
 <li>Ryan Lawrence</li>
 <li>Martin Mendoza</li>
-<li>Martin Mendoza</li>
-<li>Koray Algan</li>
 <li>Koray Algan</li>
 <li>Tom Simkovic</li>
-<li>Tom Simkovic</li>
-<li>Matt Espinoza</li>
 <li>Matt Espinoza</li>
 <li>Chad Lynch</li>
-<li>Chad Lynch</li>
-</ul>
 </ul>
 <h2 id="related_projects">Related Projects</h2>
-<h2 id="related_projects">Related Projects</h2>
-<ul>
 <ul>
 <li><a href="OWASP_Top_Ten_Project" title="wikilink">OWASP Web Top 10</a></li>
-<li><a href="OWASP_Top_Ten_Project" title="wikilink">OWASP Web Top 10</a></li>
 <li><a href="OWASP_Mobile_Security_Project" title="wikilink">OWASP Mobile Security</a></li>
-<li><a href="OWASP_Mobile_Security_Project" title="wikilink">OWASP Mobile Security</a></li>
-</ul></td>
 </ul></td>
 <p><a href="https://game-security.slack.com">The Slack Channel</a></p>
 <h2 id="quick_download">Quick Download</h2>
@@ -524,9 +493,6 @@ auto-migrated: 1
 | V1  | Local Resource Modification, Client-side Logic Flaw                                                                                                                                                                                                                                                                                                                                                                                             | In 2015 The Division experienced an exploit that allowed an attacker to switch weapons rapidly, applying weapon buffs in a stacking manner, with no cap. | Game Client  | Unfair Player Advantage | Player Anger    | Players leave, Lost Revenue | Cryptographic Integrity Checks on Game Client | <http://www.gamesradar.com/theres-a-division-damage-stacking-glitch-if-youve-got-fast-fingers/> |      | 3PS/1PS/MMO |
 | VN1 | "The attacker attacked and edited the `LOCAL GAME CLIENT (Attack Surface)`, which had a `LACK OF CLIENT INTEGRITY CONTROLS (Vulnerability)`, which allowed her to `ARTIFICIALLY INCREASE HER ABILITIES (Attacker Goal)`, ultimately leading to an `UNHAPPY PLAYER BASE (Negative Outcome)` and `DECLINING GAME REVENUE (Negative Outcome)` due to cheating, which could have been prevented by `CRYPTOGRAPHIC INTEGRITY CHECKS ON GAME CLIENT`” |                                                                                                                                                          |              |                         |                 |                             |                                               |                                                                                                 |      |             |
 |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                          |              |                         |                 |                             |                                               |                                                                                                 |      |             |
-|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                          |              |                         |                 |                             |                                               |                                                                                                 |      |             |
-|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                          |              |                         |                 |                             |                                               |                                                                                                 |      |             |
-|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                          |              |                         |                 |                             |                                               |                                                                                                 |      |             |
 
 *Working Data Collection Spreadsheet:*
 
@@ -561,3 +527,4 @@ __NOTOC__ <headertabs></headertabs>
 [Category:OWASP_Document](Category:OWASP_Document "wikilink")
 [Category:OWASP_Download](Category:OWASP_Download "wikilink")
 [Category:OWASP_Release_Quality_Document](Category:OWASP_Release_Quality_Document "wikilink")
+
