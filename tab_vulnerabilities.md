@@ -1,8 +1,8 @@
 ---
-title: Atttack Surfaces
+title: Vulnerabilities 
 layout: col-sidebar
 tab: true
-order: 1
+order: 2 
 tags: GSF, game-attack-surface, gamesec
 ---
 
