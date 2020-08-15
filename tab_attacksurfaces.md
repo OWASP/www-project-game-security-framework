@@ -3,7 +3,7 @@ title: Attack Surfaces
 layout: col-sidebar
 tab: true
 order: 1
-tags: GSF, game-attack-surface, gamesec
+tags: GSF
 ---
 
 ## Attack Surfaces
