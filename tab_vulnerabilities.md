@@ -1,9 +1,9 @@
 ---
 title: Vulnerabilities 
-layout: col-sidebar
+layout: null 
 tab: true
 order: 2 
-tags: GSF, game-attack-surface, gamesec
+tags: GSF
 ---
 
 ## Game Security Vulnerabilities
@@ -14,10 +14,8 @@ The following is a list of the vulnerabilities that can be found in video games 
 
 <!--TODO: find a better way to create these tables / lists in markdown, embedding the HTML
     into the markdow table like this is very unmaintainable... -->
+**TODO:** *migrate original content and figure out better repesentation than lists in table cells since that breaks on page build*
+
 | Attack Surface | Vulnerability Name |
 | -------------- | ------------------ |
-| Local Game Client | <ul><li>Ability to edit in-game resources</li><li>Ability to bypass license requirement</li></ul>
-| Game Network Traffic | <ul><li>Network Denial of Service (Player)<ul><li>Player bandwidth exhaustion</li><li>Player game client resource exhaustion</li></ul></ul> |
-| Game Application Traffic | <ul><li>Application Level Denial of Service (Player)<ul><li>Player application logic Denial of Service</li></ul></ul>
-| Game Server | <ul><li>Application Level Denial of Service (Server)<ul><li>Server application logic Denial of Service</li></ul><li>Ability to modify game ladder rankings</li><li>Ability to modify own player resources</li></ul> |
-| Game Economy | <ul><li>Ability to generate unlimited money on client side</li><li>Ability to generate unlimited money through network/application traffic modification</li><li>Ability to modify prices for in-game items</li><li>Ability to replay financial actions such as buying or selling through network/application manipulation</li> |
+| todo | todo |

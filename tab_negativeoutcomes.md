@@ -1,9 +1,10 @@
 ---
-title: Negative Outcomes 
-layout: col-sidebar
+title: negativeoutcomes 
+displaytext: Negative Outcomes
+layout: null 
 tab: true
 order: 5 
-tags: GSF, gamesec
+tags: GSF
 ---
 
 ## Negative Outcomes

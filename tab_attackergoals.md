@@ -1,9 +1,10 @@
 ---
-title: Attacker Goals 
-layout: col-sidebar
+title: attackergoals 
+displaytext: Attacker Goals
+layout: null 
 tab: true
 order: 4 
-tags: GSF, gamesec
+tags: GSF
 ---
 
 ## Attacker Goals

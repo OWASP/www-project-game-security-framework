@@ -1,6 +1,7 @@
 ---
-title: Attack Surfaces
-layout: col-sidebar
+title: attacksurfaces
+displaytext: Attack Surfaces
+layout: null 
 tab: true
 order: 1
 tags: GSF

@@ -2,12 +2,9 @@
 
 layout: col-sidebar
 title: OWASP Game Security Framework
-tags: example-tag
+tags: GSF 
 level: 0
 type: documentation
-
-auto-migrated: 1
-auto-migrated: 1
 
 ---
 
@@ -56,11 +53,11 @@ Another separate file that should simply include each leaders name with mailto l
 
 ## OWASP Game Security Framework (GSF)
 
-The OWASP Game Security Framework (GSF) represents a modular approach to understanding the security issues that surround video game ecosystems.
+*The OWASP Game Security Framework (GSF) represents a modular approach to understanding the security issues that surround video game ecosystems.*
 
 In 2016 the videogame market became 99.6 Billion dollar industry... any why shouldn't it be? Some of the most prolific and complex software developed today are video games. They are professionally played, sponsored, scrutinized, monetized, and celebrated, just like many sports. They handle clients, servers, web components, monetary transfers, social interactions, virtual markets, etc, with every bit the need of security that most internet hosted apps have (if not more in some cases). The GSF is designed to help threat model gaming issues that have devastated new games. Most importantly we hope the GSF can help new developers and security testers alike root out bugs in your favorite titles.
 
-The framework is broken into three main concepts / sections:
+*The framework is broken into three main concepts / sections:*
 
 ### 1. Identifying and clustering the components of risk within the overall game security space, and then giving instances of each component.
 

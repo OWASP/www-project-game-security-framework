@@ -1,9 +1,9 @@
 ---
 title: Defenses 
-layout: col-sidebar
+layout: null 
 tab: true
 order: 6 
-tags: GSF, game-defenses, defend, gamesec
+tags: GSF
 ---
 
 ## Defenses
